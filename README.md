@@ -1,5 +1,5 @@
 # TrajectoryOptimization
-trajectory optimization using SNOPT. With constrained expressed with Neural Net.
+Trajectory optimization using SNOPT. With constraints expressed using Neural Net.
 
 SNOPT python wrapper can be downloaded from https://github.com/snopt/snopt-python.
 
